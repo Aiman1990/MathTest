@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\yasir\documents\visual studio 2017\projects\mathtest\mathtest\source.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MathTest.vcxproj -> C:\Users\yasir\documents\visual studio 2017\Projects\MathTest\Debug\MathTest.exe
+  MathTest.vcxproj -> C:\Users\yasir\documents\visual studio 2017\Projects\MathTest\Debug\MathTest.pdb (Partial PDB)
